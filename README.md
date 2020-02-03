@@ -1,13 +1,11 @@
 # kjh_clock
 
-
-
 A new Flutter application.
+flutter clock project.
 
 ## Getting Started
 
-Step 01. down load file
-Step 02. flutter create .
+#flutter create .
 
 This project is a starting point for a Flutter application.
 
